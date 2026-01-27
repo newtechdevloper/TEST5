@@ -1,4 +1,5 @@
 {
+  "framework": "nextjs",
   "engines": {
     "node": "20.x"
   }
